@@ -15,7 +15,9 @@
     "lib": ["dom", "es2018"],
     "paths": {
       "@ngx-formly/core": ["dist/@ngx-formly/core"],
-      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"]
+      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"],
+      "@ngx-formly/kendo": ["dist/@ngx-formly/kendo"],
+      "@ngx-formly/kendo/*": ["dist/@ngx-formly/kendo/*"]
     }
   },
   "angularCompilerOptions": {

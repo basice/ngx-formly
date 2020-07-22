@@ -16,7 +16,9 @@
     "lib": ["dom", "es2018"],
     "paths": {
       "@ngx-formly/core": ["dist/@ngx-formly/core"],
-      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"]
+      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"],
+      "@ngx-formly/bootstrap": ["dist/@ngx-formly/bootstrap"],
+      "@ngx-formly/bootstrap/*": ["dist/@ngx-formly/bootstrap/*"]
     }
   },
   "angularCompilerOptions": {

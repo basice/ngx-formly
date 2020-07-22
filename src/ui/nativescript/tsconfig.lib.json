@@ -15,7 +15,9 @@
     "lib": ["dom", "es2018"],
     "paths": {
       "@ngx-formly/core": ["dist/@ngx-formly/core"],
-      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"]
+      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"],
+      "@ngx-formly/nativescript": ["dist/@ngx-formly/nativescript"],
+      "@ngx-formly/nativescript/*": ["dist/@ngx-formly/nativescript/*"]
     }
   },
   "angularCompilerOptions": {

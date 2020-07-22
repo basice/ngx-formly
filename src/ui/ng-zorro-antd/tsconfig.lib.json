@@ -15,7 +15,9 @@
     "lib": ["dom", "es2015"],
     "paths": {
       "@ngx-formly/core": ["dist/@ngx-formly/core"],
-      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"]
+      "@ngx-formly/core/*": ["dist/@ngx-formly/core/*"],
+      "@ngx-formly/ng-zorro-antd": ["dist/@ngx-formly/ng-zorro-antd"],
+      "@ngx-formly/ng-zorro-antd/*": ["dist/@ngx-formly/ng-zorro-antd/*"]
     }
   },
   "angularCompilerOptions": {
